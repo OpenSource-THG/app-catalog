@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   cockroachdb-operator:
   - apiVersion: v2
+    appVersion: 0.9.0
+    created: "2023-03-21T20:14:02.552363268Z"
+    description: A Helm chart for running the CockroachDB Operator
+    digest: 2dcb7d8de486ef3bec9b9d2c4c4c214d0f5ac68bbdc7c18fbddbd0ec2cabb39e
+    name: cockroachdb-operator
+    type: application
+    urls:
+    - https://OpenSource-THG.github.io/app-catalog/cockroachdb-operator-0.9.0.tgz
+    version: 0.9.0
+  - apiVersion: v2
     appVersion: 0.8.0
-    created: "2023-03-21T18:48:57.6917158Z"
+    created: "2023-03-21T20:14:02.551933367Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: f65ef3bdffd55966dd09eae50af3f1ac6b1632a9a4f6e0a99016bd7e4a24ddeb
     name: cockroachdb-operator
@@ -13,7 +23,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2023-03-21T18:48:57.6913832Z"
+    created: "2023-03-21T20:14:02.551578866Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 25f0ac34a24bd7d0cb32f9e0177497485265eb9845d6048c4a5984bbc0af3c40
     name: cockroachdb-operator
@@ -23,7 +33,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 0.6.0
-    created: "2023-03-21T18:48:57.691031Z"
+    created: "2023-03-21T20:14:02.551193765Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 264cd8cec4b98643af8d8e0c11a7bdac1396c4decb36ef6e328bd7de108049ec
     name: cockroachdb-operator
@@ -33,7 +43,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 0.5.0
-    created: "2023-03-21T18:48:57.6906607Z"
+    created: "2023-03-21T20:14:02.550804063Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 9a9c6b22b5d3801b3c10b7c13eb18a38b2fa8bb9018f35442f067b8677c8943f
     name: cockroachdb-operator
@@ -43,7 +53,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 0.4.0
-    created: "2023-03-21T18:48:57.690307Z"
+    created: "2023-03-21T20:14:02.550443262Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 37378a9bf8e8e0c3c2569ec3d9227b423489f48d582d0f8e3f4ce6706292f7d7
     name: cockroachdb-operator
@@ -53,7 +63,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-03-21T18:48:57.689899299Z"
+    created: "2023-03-21T20:14:02.550009861Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 71a1ea6333851c0c595f702af875a9c3815fb7408ec1e1a580b444e70ac8a0ff
     name: cockroachdb-operator
@@ -63,7 +73,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.2.0
-    created: "2023-03-21T18:48:57.689286999Z"
+    created: "2023-03-21T20:14:02.54955756Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: e33b8163eb9139231c13ee17e32c0283ab8d0607c8f80382fce0cd1dc1dd6e22
     name: cockroachdb-operator
@@ -73,7 +83,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-21T18:48:57.688780599Z"
+    created: "2023-03-21T20:14:02.549070359Z"
     description: A Helm chart for running the CockroachDB Operator
     digest: 6ee1aa44f1d2bca9c101377e5abc7d91ad6598c14deafce4214e95c84af4ace2
     name: cockroachdb-operator
@@ -81,4 +91,4 @@ entries:
     urls:
     - https://OpenSource-THG.github.io/app-catalog/cockroachdb-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-21T18:48:57.687316198Z"
+generated: "2023-03-21T20:14:02.545893249Z"
