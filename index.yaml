@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cockroachdb-operator:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-21T10:58:17.0971099Z"
+    description: A Helm chart for running the CockroachDB Operator
+    digest: 6ee1aa44f1d2bca9c101377e5abc7d91ad6598c14deafce4214e95c84af4ace2
+    name: cockroachdb-operator
+    type: application
+    urls:
+    - https://OpenSource-THG.github.io/app-catalog/cockroachdb-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-21T10:58:17.09590249Z"
